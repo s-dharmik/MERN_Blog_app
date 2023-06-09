@@ -4,6 +4,8 @@ This is a simple blog app website built using MERN stack. It allows users to Rea
 ## Features ✨
 - View a list of blog posts on the home page
 - Read a blog post by clicking on it
+- User can create and log into their account for their blog channel
+- Implemented Authentication using JWT
 - Create a new blog post
 - Edit an existing blog post
 - Delete a blog post
@@ -17,4 +19,4 @@ This is a simple blog app website built using MERN stack. It allows users to Rea
 4. Open http://localhost:3000 in your browser to view the app.
 
 ## Contributing 🛂
-If you would like to contribute to this project, feel free to submit a pull request.
+If you would like to contribute to this project, feel free to send a PR. I will be really happy to have you. 
